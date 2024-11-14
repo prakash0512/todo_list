@@ -1,10 +1,5 @@
 # Technical Questions Documentation
 
-This document provides responses to technical questions regarding time spent on the coding test, useful features in JavaScript, troubleshooting production performance issues, and potential improvements for a task management application.
-
----
-
-## Coding Test Duration
 
 **Question**:  
 How long did you spend on the coding test?
@@ -12,9 +7,8 @@ How long did you spend on the coding test?
 **Answer**:  
 I spent approximately **15 hours** on the coding test. This time included reading through the requirements, planning the overall structure, writing the code, and debugging to ensure the solution met the specifications and handled edge cases effectively.
 
----
 
-## Notable JavaScript Feature
+
 
 **Question**:  
 What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
@@ -42,7 +36,7 @@ export default UserProfile;
 
 
 
-## Troubleshooting Production Performance Issues
+
 
 **Question**:  
 How would you track down a performance issue in production? Have you ever had to do this?
@@ -69,7 +63,7 @@ In a previous project, I encountered a performance issue where response times st
 
 ---
 
-## Task Management Application Enhancements
+
 
 **Question**:  
 If you had more time, what additional features or improvements would you consider adding to the task management application?
