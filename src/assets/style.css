@@ -1,0 +1,36 @@
+.task-overdue {
+	background-color: lightcoral;
+	color: white;
+}
+
+.task-upcoming-high {
+	background-color: lightgoldenrodyellow;
+	color: white;
+}
+
+.task-upcoming-medium {
+	background-color: lightsalmon;
+	color: white;
+}
+
+.task-upcoming-low {
+	background-color: lightgreen;
+	color: white;
+}
+
+.task-completed {
+	background-color: lightslategray;
+	color: white;
+}
+
+.accordion-title {
+	background-color: black;
+	color: white;
+	border-radius: 4px;
+}
+
+.accordion-content {
+	background-color: inherit;
+	color: white;
+	padding: 16px;
+}
