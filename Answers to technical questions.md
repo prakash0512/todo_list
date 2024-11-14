@@ -32,16 +32,14 @@ const UserProfile = ({ user }) => {
 };
 
 export default UserProfile;
+```
 
 
 
 
+### 3. How would you track down a performance issue in production? Have you ever had to do this?
 
-
-**Question**:  
-How would you track down a performance issue in production? Have you ever had to do this?
-
-**Answer**:  
+**Answer**  
 To address a performance issue in production, I would follow these steps:
 
 1. **Identify Symptoms and Metrics**:  
@@ -63,12 +61,9 @@ In a previous project, I encountered a performance issue where response times st
 
 ---
 
+### 4. If you had more time, what additional features or improvements would you consider adding to the task management application?
 
-
-**Question**:  
-If you had more time, what additional features or improvements would you consider adding to the task management application?
-
-**Answer**:  
+**Answer**  
 With additional time, I would focus on the following features to improve the task management application:
 
 1. **Advanced Filtering and Sorting**:  
@@ -89,4 +84,7 @@ With additional time, I would focus on the following features to improve the tas
 6. **Calendar Integration**:  
    Integrate with popular calendar apps like Google Calendar and Outlook, enabling seamless task management across platforms.
 
+---
+
+This information covers my approach to handling performance issues and outlines additional features that could further enhance the task management application.
 These features would significantly enhance user experience and functionality, making the application more versatile and user-friendly.
